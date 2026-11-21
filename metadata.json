@@ -1,0 +1,6 @@
+{
+  "name": "Blaze Drop",
+  "description": "Tactical Battle Royale survival shooter with character skills, shrinking safe zone, gloo walls, airdrops, and Booyah action.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
